@@ -63,14 +63,13 @@ export const config = {
       // 想要发送的人的名字
       name: "恒崽崽",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "of37a6aelOJyTCM9dbEzAGfI083Q
-",
+      id: "oGm3m5hBuDCyVm0XlpyATtRWmnMo",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "GIkVauDJ85xYv1oc3XJj5E6rFJMtWRMrLTa80RAoxKo",
       // 所在省份
       province: "广东",
       // 所在城市
-      city: "深圳",
+      city: "阳江",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -107,7 +106,7 @@ export const config = {
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
-      customizedDateList: [// 在一起的日子{"keyword": "love_day", date: "2022-03-05"}]
+      customizedDateList: []
     },
     {
       name: "老婆2",
