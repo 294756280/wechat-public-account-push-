@@ -98,16 +98,16 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "1",
+      id: "oGm3m5sV1zyTuEs-TyZcRu-XE8eg",
+      useTemplateId: "GIkVauDJ85xYv1oc3XJj5E6rFJMtWRMrLTa80RAoxKo",
+      province: "广东",
+      city: "阳江",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
-      customizedDateList: []
+      customizedDateList: [// 在一起的日子{"keyword": "love_day", date: "2022-03-05"}]
     },
     {
       name: "老婆2",
